@@ -11,7 +11,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&force
 #EXTINF:-1 tvg-id="Rete4.it" tvg-chno="4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png" group-title="Mediaset",Rete 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="Canale5.it" tvg-chno="5" tvg-logo="https://channel.images.production.web.w4a.tv/dark/canale-5.png" group-title="Mediaset",Canale 5
+#EXTINF:-1 tvg-id="Canale5.it" tvg-chno="5" tvg-logo="https://channel.images.production.web.w4a.tv/dark/canale-5.png?dpr=2&auto=format&w=48" group-title="Mediaset",Canale 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 #EXTINF:-1 tvg-id="Italia1.it" tvg-chno="6" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia1.png" group-title="Mediaset",Italia 1

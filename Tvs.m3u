@@ -26,7 +26,7 @@ https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #EXTINF:-1 tvg-id="La7.it" tvg-chno="7" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png" group-title="Altro",LA7
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 
-#EXTINF:-1 tvg-id="nove.it" tvg-logo="",nove HD 720p
+#EXTINF:-1 tvg-id="nove.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png",nove HD 720p
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 
 #EXTINF:-1 tvg-id="RSILa1.ch" tvg-logo="",RSI La 1 HD 1080p

@@ -29,10 +29,10 @@ https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 #EXTINF:-1 tvg-id="nove.it" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png",Nove HD
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 
-#EXTINF:-1 tvg-id="RSILa1.ch" tvg-chno="15" tvg-logo="",RSI La 1 HD
+#EXTINF:-1 tvg-id="RSILa1.ch" tvg-chno="15" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rsila1.png",RSI La 1 HD
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 
-#EXTINF:-1 tvg-id="RSILa2.ch" tvg-chno="16" tvg-logo="",RSI La 2 HD
+#EXTINF:-1 tvg-id="RSILa2.ch" tvg-chno="16" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rsila2.png",RSI La 2 HD
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="10" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/raigulp.png" group-title="Rai",Rai Gulp HD

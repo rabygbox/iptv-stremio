@@ -19,7 +19,7 @@ https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 
-#EXTINF:-1 tvg-id="Italia1(Italian).it" tvg-chno="6" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia1.png" group-title="Mediaset",Italia 1 HD
+#EXTINF:-1 tvg-id="Italia1(Italian).it" tvg-chno="6" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/italia1.png" group-title="Mediaset",Italia 1 HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 

@@ -32,8 +32,8 @@ https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 #EXTINF:-1 tvg-id="RSILa1.ch" tvg-chno="15" tvg-logo="",RSI La 1 HD
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 
-#EXTINF:-1 tvg-id="RSILa2.ch" tvg-chno="16" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/raigulp.png",RSI La 2 HD
+#EXTINF:-1 tvg-id="RSILa2.ch" tvg-chno="16" tvg-logo="",RSI La 2 HD
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="10" tvg-logo="" group-title="Rai",Rai Gulp HD
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="10" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/raigulp.png" group-title="Rai",Rai Gulp HD
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd

@@ -15,7 +15,7 @@ https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 
-#EXTINF:-1 tvg-id="Canale5(src01).it" tvg-chno="5" tvg-logo="https://channel.images.production.web.w4a.tv/dark/canale-5.png?dpr=2&auto=format&w=48" group-title="Mediaset",Canale 5 HD
+#EXTINF:-1 tvg-id="Canale5(src01).it" tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/canale5.png" group-title="Mediaset",Canale 5 HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 

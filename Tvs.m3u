@@ -1,8 +1,5 @@
 #EXTM3U
-x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
-
 #EXTINF:-1 tvg-id="Rai 1 HD.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rai1.png" group-title="Rai",Rai 1 HD
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
 #EXTINF:-1 tvg-id="Rai2(src01).it" tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rai2.png" group-title="Rai",Rai 2 HD
@@ -49,5 +46,4 @@ https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 
 #EXTINF:-1 tvg-id="Giallo.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/giallo.png" tvg-name="Giallo" group-title="Mediaset",Giallo
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8

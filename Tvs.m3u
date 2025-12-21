@@ -1,41 +1,44 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Rai 1 HD.it" tvg-chno="1" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rai1.png" group-title="Rai",Rai 1 HD
+#EXTINF:-1 tvg-id="Rai 1 HD.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rai1.png" group-title="Rai",Rai 1 HD
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
-#EXTINF:-1 tvg-id="Rai2(src01).it" tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rai2.png" group-title="Rai",Rai 2 HD
+#EXTINF:-1 tvg-id="Rai2(src01).it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rai2.png" group-title="Rai",Rai 2 HD
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 
-#EXTINF:-1 tvg-id="Rai3(src01).it" tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rai3.png" group-title="Rai",Rai 3 HD
+#EXTINF:-1 tvg-id="Rai3(src01).it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rai3.png" group-title="Rai",Rai 3 HD
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
 
-#EXTINF:-1 tvg-id="Rete4(src01).it" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rete4.png" group-title="Mediaset",Rete 4 HD
+#EXTINF:-1 tvg-id="Rete4(src01).it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rete4.png" group-title="Mediaset",Rete 4 HD
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 
-#EXTINF:-1 tvg-id="Canale5(src01).it" tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/canale5.png" group-title="Mediaset",Canale 5 HD
+#EXTINF:-1 tvg-id="Canale5(src01).it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/canale5.png" group-title="Mediaset",Canale 5 HD
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 
-#EXTINF:-1 tvg-id="Italia1(Italian).it" tvg-chno="6" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/italia1.png" group-title="Mediaset",Italia 1 HD
+#EXTINF:-1 tvg-id="Italia1(Italian).it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/italia1.png" group-title="Mediaset",Italia 1 HD
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 
-#EXTINF:-1 tvg-id="La7.it" tvg-chno="7" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/la7.png" group-title="Altro",LA7 HD
+#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/la7.png" group-title="Altro",LA7 HD
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 
-#EXTINF:-1 tvg-id="nove.it" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/nove.png",Nove HD
+#EXTINF:-1 tvg-id="nove.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/nove.png",Nove HD
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 
-#EXTINF:-1 tvg-id="RSILa1.ch" tvg-chno="15" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rsila1.png",RSI La 1 HD
+#EXTINF:-1 tvg-id="RSILa1.ch" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rsila1.png",RSI La 1 HD
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 
-#EXTINF:-1 tvg-id="RSILa2.ch" tvg-chno="16" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rsila2.png",RSI La 2 HD
+#EXTINF:-1 tvg-id="RSILa2.ch" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rsila2.png",RSI La 2 HD
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="10" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/raigulp.png" group-title="Rai",Rai Gulp HD
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/raigulp.png" group-title="Rai",Rai Gulp HD
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 
-#EXTINF:-1 tvg-id="dmax.it" tvg-chno="17" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/dmax.png" tvg-name="DMAX HD" group-title="Mediaset",DMAX HD
+#EXTINF:-1 tvg-id="K2.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/raigulp.png" group-title="Rai",K2
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
+
+#EXTINF:-1 tvg-id="dmax.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/dmax.png" tvg-name="DMAX HD" group-title="Mediaset",DMAX HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 
-#EXTINF:-1 tvg-id="Giallo.it" tvg-chno="18" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/giallo.png" tvg-name="Giallo" group-title="Mediaset",Giallo
+#EXTINF:-1 tvg-id="Giallo.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/giallo.png" tvg-name="Giallo" group-title="Mediaset",Giallo
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8

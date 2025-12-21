@@ -1,4 +1,6 @@
 #EXTM3U
+x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,"
+
 #EXTINF:-1 tvg-id="Rai 1 HD.it" tvg-chno="1" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rai1.png" group-title="Rai",Rai 1 HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd

@@ -4,11 +4,9 @@
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
 #EXTINF:-1 tvg-id="Rai2(src01).it" tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rai2.png" group-title="Rai",Rai 2 HD
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 
 #EXTINF:-1 tvg-id="Rai3(src01).it" tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rai3.png" group-title="Rai",Rai 3 HD
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
 
 #EXTINF:-1 tvg-id="Rete4(src01).it" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rete4.png" group-title="Mediaset",Rete 4 HD

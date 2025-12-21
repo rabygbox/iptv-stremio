@@ -33,12 +33,17 @@ https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/raigulp.png" group-title="Rai",Rai Gulp HD
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 
-#EXTINF:-1 tvg-id="K2.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/k2.png" group-title="Rai",K2
+#EXTINF:-1 tvg-id="K2.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/k2.png" group-title="Mediaset",K2
 https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
 
 #EXTINF:-1 tvg-id="dmax.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/dmax.png" tvg-name="DMAX HD" group-title="Mediaset",DMAX HD
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
+
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/frisbee.png" group-title="Mediaset",Frisbee
+https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+
+#EXTINF:-1 tvg-id="Super!.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/super.png" group-title="Mediaset",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Giallo.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/giallo.png" tvg-name="Giallo" group-title="Mediaset",Giallo
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8

@@ -29,19 +29,25 @@ https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 
 #EXTINF:-1 tvg-id="nove.it" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/nove.png",Nove HD
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 
 #EXTINF:-1 tvg-id="RSILa1.ch" tvg-chno="15" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rsila1.png",RSI La 1 HD
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 
 #EXTINF:-1 tvg-id="RSILa2.ch" tvg-chno="16" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/rsila2.png",RSI La 2 HD
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="10" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/raigulp.png" group-title="Rai",Rai Gulp HD
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 
 #EXTINF:-1 tvg-id="dmax.it" tvg-chno="17" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/dmax.png" tvg-name="DMAX HD" group-title="Mediaset",DMAX HD
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 
 #EXTINF:-1 tvg-id="Giallo.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/giallo.png" tvg-name="Giallo" group-title="Mediaset",Giallo
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8

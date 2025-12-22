@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SkySport24.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/skysport24.png" tvg-logo-small="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/skysport24.png" tvg-banner="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/skysport24.png" group-title="Sky",Sky Sport 24 HD
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/skysport24.png" tvg-logo-small="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/skysport24.png" tvg-banner="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/skysport24.png" tvg-thumb="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/skysport24.png" group-title="Sky",Sky Sport 24 HD
 http://focus.viptveu.com:8080/play/live.php?mac=00:2A:01:93:55:B4&stream=672530&extension=ts&play_token=kCl2DXxQqG
 
 

@@ -1,2 +1,4 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="rtlsuper.de" tvg-logo="",RTL SUPER
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd

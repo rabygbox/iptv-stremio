@@ -6,9 +6,6 @@ https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 #EXTINF:-1 tvg-id="rtlnitro.de" tvg-logo="",RTL nitro
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
 
-#EXTINF:-1 tvg-id="sixx.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/sixx.png" group-title="TV",sixx HD
-https://viamotionhsi.netplus.ch/live/eds/sixx/browser-dash/sixx.mpd
-
 #EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="",zdf neo HD
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
 

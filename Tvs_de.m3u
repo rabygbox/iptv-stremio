@@ -2,3 +2,59 @@
 
 #EXTINF:-1 tvg-id="rtlsuper.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/superrtl.png" group-title="TV",RTL SUPER
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
+
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-logo="",RTL nitro
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
+
+#EXTINF:-1 tvg-id="sixx.de" tvg-logo="",sixx HD ?
+https://viamotionhsi.netplus.ch/live/eds/sixx/browser-dash/sixx.mpd
+
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="",zdf neo HD
+https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
+
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-logo="",zdf info HD
+https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
+
+#EXTINF:-1 tvg-id="sat.1gold.de" tvg-logo="",SAT.1 GOLD HD
+https://viamotionhsi.netplus.ch/live/eds/sat1gold/browser-dash/sat1gold.mpd
+
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="",ntv
+https://viamotionhsi.netplus.ch/live/eds/ntv/browser-dash/ntv.mpd
+#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="",phoenix HD
+https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-dash/phoenixhd.mpd
+
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-logo="",eurosport1 D
+https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
+
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="",kabel eins DOKU
+https://viamotionhsi.netplus.ch/live/eds/kabel1doku/browser-dash/kabel1doku.mpd
+
+#EXTINF:-1 tvg-id="pulsacht.de" tvg-logo="",puls acht ?
+https://viamotionhsi.netplus.ch/live/eds/puls8/browser-dash/puls8.mpd
+
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-logo="",comedy central D HD
+https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
+
+#EXTINF:-1 tvg-id="nickelodeon.de" tvg-logo="",comedy central+1 D
+https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-dash/comedycentralnick.mpd
+
+#EXTINF:-1 tvg-id="7maxx.de" tvg-logo="",7MAXX ?
+https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-dash/prosiebenmaxx.mpd
+
+#EXTINF:-1 tvg-id="tele5.de" tvg-logo="",tele5 D
+https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
+
+#EXTINF:-1 tvg-id="alpha.de" tvg-logo="",ARD alpha
+https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-dash/bralpha.mpd
+
+#EXTINF:-1 tvg-id="deluxmusic.de" tvg-logo="",DELUXE MUSIC
+https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
+
+#EXTINF:-1 tvg-id="vox.de" tvg-logo="https://picserve.netplus.ch/channels/vox.png",VOX
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
+
+#EXTINF:-1 tvg-id="atv.at" tvg-logo="",atv2
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
+
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-logo="",Disney Channel D
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-dash/disneychannelde.mpd

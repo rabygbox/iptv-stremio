@@ -53,10 +53,10 @@ https://viamotionhsi.netplus.ch/live/eds/kabel1doku/browser-dash/kabel1doku.mpd
 #EXTINF:-1 tvg-id="pulsacht.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/plusacht.png",puls acht
 https://viamotionhsi.netplus.ch/live/eds/puls8/browser-dash/puls8.mpd
 
-#EXTINF:-1 tvg-id="comedycentral.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/comedicentral.png",comedy central
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/comedycentral.png",comedy central
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
 
-#EXTINF:-1 tvg-id="nickelodeon.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/comedicentral1.png",comedy central+1
+#EXTINF:-1 tvg-id="nickelodeon.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/comedycentral1.png",comedy central+1
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-dash/comedycentralnick.mpd
 
 #EXTINF:-1 tvg-id="7maxx.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/pro7maxx.png",7MAXX

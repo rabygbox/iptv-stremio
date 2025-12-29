@@ -6,13 +6,13 @@ https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 #EXTINF:-1 tvg-id="rtlnitro.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/rtlnitro.png",RTL nitro
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
 
-#EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="",zdf neo HD
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="",zdf neo
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
 
-#EXTINF:-1 tvg-id="zdfinfo.de" tvg-logo="",zdf info HD
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-logo="",zdf info
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
 
-#EXTINF:-1 tvg-id="sat.1gold.de" tvg-logo="",SAT.1 GOLD HD
+#EXTINF:-1 tvg-id="sat.1gold.de" tvg-logo="",SAT.1 GOLD
 https://viamotionhsi.netplus.ch/live/eds/sat1gold/browser-dash/sat1gold.mpd
 
 #EXTINF:-1 tvg-id="ntv.de" tvg-logo="",ntv

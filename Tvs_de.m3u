@@ -1,5 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="rtlzwei.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/rtl2.png",RTLZWEI
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
+
+#EXTINF:-1 tvg-id="prosieben.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/pro7.png",Pro7
+https://viamotionhsi.netplus.ch/live/eds/pro7/browser-dash/pro7.mpd
+
+#EXTINF:-1 tvg-id="sat1.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/sat1.png",SAT.1
+https://viamotionhsi.netplus.ch/live/eds/sat1/browser-dash/sat1.mpd
+
+#EXTINF:-1 tvg-id="kabel1.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/kabel1.png", Kabel 1
+https://viamotionhsi.netplus.ch/live/eds/kabel1/browser-dash/kabel1.mpd
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/3sat.png", 3sat
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
+
+#EXTINF:-1 tvg-id="kika.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/kika.png",KIKA
+https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-dash/kikahd.mpd
+
+#EXTINF:-1 tvg-id="sport1.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/sport1.png",Sport 1
+https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
+
+
+
 #EXTINF:-1 tvg-id="rtlsuper.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/superrtl.png",RTL SUPER
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 

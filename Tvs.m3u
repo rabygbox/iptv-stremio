@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Rai 1 HD" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai1.png" group-title="TV",Rai 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Rai 1 HD" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai1.png" group-title="tvchannel",Rai 1 HD
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
-#EXTINF:-1 tvg-id="Rai2(src01).it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai2.png" group-title="Sport",Rai 2 HD
+#EXTINF:-1 tvg-id="Rai2(src01).it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai2.png" group-title="channel",Rai 2 HD
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 
-#EXTINF:-1 tvg-id="Rai3(src01).it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai3.png" group-title="Music",Rai 3 HD
+#EXTINF:-1 tvg-id="Rai3(src01).it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai3.png" group-title="tv",Rai 3 HD
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
 
 #EXTINF:-1 tvg-id="Rete4(src01).it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rete4.png" group-title="Live",Rete 4 HD

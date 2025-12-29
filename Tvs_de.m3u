@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="rtlsuper.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/superrtl.png" group-title="TV",RTL SUPER
+#EXTINF:-1 tvg-id="rtlsuper.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/superrtl.png",RTL SUPER
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 
 #EXTINF:-1 tvg-id="rtlnitro.de" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/rtlnitro.png",RTL nitro

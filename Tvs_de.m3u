@@ -17,7 +17,7 @@ https://viamotionhsi.netplus.ch/live/eds/sat1gold/browser-dash/sat1gold.mpd
 
 #EXTINF:-1 tvg-id="ntv.de" tvg-logo="",ntv
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-dash/ntv.mpd
-#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="",phoenix HD
+#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="",phoenix
 https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-dash/phoenixhd.mpd
 
 #EXTINF:-1 tvg-id="eurosport1.de" tvg-logo="",eurosport1 D
@@ -26,19 +26,19 @@ https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mp
 #EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="",kabel eins DOKU
 https://viamotionhsi.netplus.ch/live/eds/kabel1doku/browser-dash/kabel1doku.mpd
 
-#EXTINF:-1 tvg-id="pulsacht.de" tvg-logo="",puls acht ?
+#EXTINF:-1 tvg-id="pulsacht.de" tvg-logo="",puls acht
 https://viamotionhsi.netplus.ch/live/eds/puls8/browser-dash/puls8.mpd
 
-#EXTINF:-1 tvg-id="comedycentral.de" tvg-logo="",comedy central D HD
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-logo="",comedy central
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
 
-#EXTINF:-1 tvg-id="nickelodeon.de" tvg-logo="",comedy central+1 D
+#EXTINF:-1 tvg-id="nickelodeon.de" tvg-logo="",comedy central+1
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-dash/comedycentralnick.mpd
 
-#EXTINF:-1 tvg-id="7maxx.de" tvg-logo="",7MAXX ?
+#EXTINF:-1 tvg-id="7maxx.de" tvg-logo="",7MAXX
 https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-dash/prosiebenmaxx.mpd
 
-#EXTINF:-1 tvg-id="tele5.de" tvg-logo="",tele5 D
+#EXTINF:-1 tvg-id="tele5.de" tvg-logo="",tele5
 https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
 
 #EXTINF:-1 tvg-id="alpha.de" tvg-logo="",ARD alpha
@@ -53,5 +53,5 @@ https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
 #EXTINF:-1 tvg-id="atv.at" tvg-logo="",atv2
 https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-logo="",Disney Channel D
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-logo="",Disney Channel
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-dash/disneychannelde.mpd

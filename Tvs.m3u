@@ -1,9 +1,6 @@
 #EXTM3U
 
-# • Lupin The IIIRD - The Immortal Blodline
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFmMTc3YWQtZTY1OC00YzllLWEyYTQtZWRkYjUxYjBkMTQ3XkEyXkFqcGc@._V1_SX250.jpg" group-title="Movie",Lupin The IIIRD - The Immortal Blodline
-https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=ea563bca9dce6e30
-
+# •
 
 # • Live TV Channel
 #EXTINF:-1 tvg-id="Rai1(src01).it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai1.png" group-title="Rai",Rai 1

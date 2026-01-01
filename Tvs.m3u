@@ -1,7 +1,7 @@
 #EXTM3U
 
 # •test
-EXTINF:-1 tvg-logo="https://pad.mymovies.it/filmclub/2021/11/286/locandinapg1.jpg",Test HD
+#EXTINF:-1 tvg-logo="https://pad.mymovies.it/filmclub/2021/11/286/locandinapg1.jpg",Test HD
 https://leviathanaddon.dpdns.org/vixsynthetic.m3u8?src=https%3A%2F%2Fvixsrc.to%2Fplaylist%2F263459.m3u8%3Ftoken%3D0e1bfd0cfce0e8f66e234076e5475057%26expires%3D1772467185%26h%3D1&lang=it&max=1&multi=1
 
 # • Live TV Channel

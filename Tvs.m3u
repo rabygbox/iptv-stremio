@@ -1,8 +1,8 @@
 #EXTM3U
 
 # • Home Alone 1990
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/pod_public/1300/262716.jpg",Home Alone HD
-https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=96197249e2e7533c
+##EXTINF:-1 tvg-logo="https://storage.googleapis.com/pod_public/1300/262716.jpg",Home Alone HD
+#https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=96197249e2e7533c
 
 # • Live TV Channel
 #EXTINF:-1 tvg-id="Rai1(src01).it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai1.png" group-title="Rai",Rai 1

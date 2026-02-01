@@ -1,6 +1,10 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/782dyqqmjwa1jwx2y4zp" billed-till="" billed-msg=" 💬   /  👤 Admin" max-conn="1"
-#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="https://channel.images.production.web.w4a.tv/dark/DE_arte.png" group-title="GERMANY" parent-code="" tvg-rec="1", Ita
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937","type":"temporary"}
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
+#EXTM3U
+
+#EXTINF:-1 tvg-id="canale5", Canale 5
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd?license_type=widevine&license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
+
+#EXTINF:-1 tvg-id="italia1", Italia 1
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd?license_type=widevine&license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
+
+#EXTINF:-1 tvg-id="rete4", Rete 4
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-r4/r4-dash-widevine.isml/manifest.mpd?license_type=widevine&license_key=00f9f3c0783536b82247d8ac69f220e2:87854c1823cc1b6d15ac47a531578618

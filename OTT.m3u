@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="ARTE.de" tvg-logo="https://channel.images.production.web.w4a.tv/dark/DE_arte.png" group-title="GERMANY" parent-code="" tvg-rec="1", ARTE DE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":{"00f9f3c0783536b80299a8aa9705e03a:4fee7943868f00aab0b6c070d1896886"},"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":"00f9f3c0783536b80299a8aa9705e03a:4fee7943868f00aab0b6c070d1896886"},"type":"temporary"}
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-lb/lb-dash-widevine.isml/manifest_hr.mpd

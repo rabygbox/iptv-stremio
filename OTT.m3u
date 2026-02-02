@@ -24,7 +24,8 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manife
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-lb/lb-dash-widevine.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="iris" tvg-name="Iris" group-title="Top Italia", Iris
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8fee8000e2f77206a:92af823fa6d9cf5a09574605e70bb202
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-ki/ki-dash-widevine.isml/manifest.mpd
 
@@ -44,7 +45,8 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-b6/b6-dash-widevine.isml/manife
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-ka/ka-dash-widevine.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="mediaset_extra" tvg-name="Mediaset Extra" group-title="Top Italia", Mediaset Extra
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b802711018c620005a:9806297f79f52806bf5e05a97d2cd14b
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-kq/kq-dash-widevine.isml/manifest.mpd
 

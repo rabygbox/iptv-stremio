@@ -6,10 +6,3 @@
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b82247d8ac69f220e2:87854c1823cc1b6d15ac47a531578618
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-r4/r4-dash-widevine.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="rete4vod.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png" group-title="ITALY", SHELDON
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e8a651530e8654752ec280ee24d607c7:51e0cf73bb87f38da0a3acf097d274fd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0
-https://vod06.msf.cdn.mediaset.net/farmunica/2026/01/2414429_19c0442749f645/dashrcenc/hd_wv_mpl.mpd

@@ -9,6 +9,9 @@ https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
 
 #EXTINF:-1 tvg-id="rete4" tvg-name="Rete 4" group-title="Top Italia", Rete 4
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
+
+#EXTINF:-1 tvg-id="rete4" tvg-name="Rete 4" group-title="Top Italia", Rete 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -18,12 +21,18 @@ https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-r4/r4-dash-widevine.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="canale5" tvg-name="Canale 5" group-title="Top Italia", Canale 5
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
+
+#EXTINF:-1 tvg-id="canale5" tvg-name="Canale 5" group-title="Top Italia", Canale 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="italia1" tvg-name="Italia 1" group-title="Top Italia", Italia
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
 
 #EXTINF:-1 tvg-id="italia1" tvg-name="Italia 1" group-title="Top Italia", Italia 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -32,6 +41,12 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="la7" tvg-name="La7" group-title="Top Italia", La7
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
+
+#EXTINF:-1 tvg-id="nove" tvg-name="Nove" group-title="Top Italia", Nove
+https://viamotionhsi.netplus.ch/live/eds/nove/browser-HLS8/nove.m3u8
 
 #EXTINF:-1 tvg-id="20" tvg-name="20 Mediaset" group-title="Top Italia", 20 Mediaset
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

@@ -125,19 +125,3 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-la/la-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee0e706073554094:1460974312c223bcffe747691c64c14c
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-i2/i2-dash-widevine.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="sport_events" tvg-name="Lega Volley Summer Tour", Lega Volley Summer Tour
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8c67578da1eb9c0c6:74345f674730cd1038f1989cb254d64e
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-b2/b2-dash-widevine.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="diretta" tvg-name="Diretta", Diretta
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8c8fa787c1b8840c2:a9c2d17b8685db761c1e59af564fe18f
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-b4/b4-dash-widevine.isml/manifest.mpd

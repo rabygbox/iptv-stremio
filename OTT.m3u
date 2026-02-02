@@ -1,49 +1,49 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/782dyqqmjwa1jwx2y4zp" billed-till="" billed-msg=" 💬 / 👤 Admin" max-conn="1"
 #EXT-X-SESSION-DATA:ID="clearkey"
 
-#EXTINF:-1 tvg-id="rete4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png" group-title="",Rete4 LIVE
+#EXTINF:-1 tvg-id="rete4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png" group-title="Top Italia",Rete4 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b82247d8ac69f220e2:87854c1823cc1b6d15ac47a531578618
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-r4/r4-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="canale5" tvg-name="Canale 5", Canale 5
+#EXTINF:-1 tvg-id="canale5" tvg-name="Canale 5" group-title="Top Italia", Canale 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="italia1" tvg-name="Italia 1", Italia 1
+#EXTINF:-1 tvg-id="italia1" tvg-name="Italia 1" group-title="Top Italia", Italia 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="20" tvg-name="20 Mediaset", 20 Mediaset
+#EXTINF:-1 tvg-id="20" tvg-name="20 Mediaset" group-title="Top Italia", 20 Mediaset
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b80299a8aa9705e03a:4fee7943868f00aab0b6c070d1896886
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-lb/lb-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="iris" tvg-name="Iris", Iris
+#EXTINF:-1 tvg-id="iris" tvg-name="Iris" group-title="Top Italia", Iris
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8fee8000e2f77206a:92af823fa6d9cf5a09574605e70bb202
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-ki/ki-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="twentyseven" tvg-name="27 Twentyseven", 27 Twentyseven
+#EXTINF:-1 tvg-id="twentyseven" tvg-name="27 Twentyseven" group-title="Top Italia", 27 Twentyseven
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834357864bc2ae0a8:ae7bec66e4ac23f3d243fa6e4d767a00
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-ts/ts-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="cine34" tvg-name="Cine34", Cine34
+#EXTINF:-1 tvg-id="cine34" tvg-name="Cine34" group-title="Top Italia", Cine34
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8c87f001e1857c0be:bd13994c5a40fc4ce4a04bc701b85a3b
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-b6/b6-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="la5" tvg-name="La 5", La 5
+#EXTINF:-1 tvg-id="la5" tvg-name="La 5" group-title="Top Italia", La 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8fcd4f086f53b407a:a3f66a1dd63b673ff171538ff1ee3bd4
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-ka/ka-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="mediaset_extra" tvg-name="Mediaset Extra", Mediaset Extra
+#EXTINF:-1 tvg-id="mediaset_extra" tvg-name="Mediaset Extra" group-title="Top Italia", Mediaset Extra
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b802711018c620005a:9806297f79f52806bf5e05a97d2cd14b
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-kq/kq-dash-widevine.isml/manifest.mpd

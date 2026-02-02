@@ -40,7 +40,10 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-ts/ts-dash-widevine.isml/manife
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-b6/b6-dash-widevine.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="la5" tvg-name="La 5" group-title="Top Italia", La 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=orgclearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8fcd4f086f53b407a:a3f66a1dd63b673ff171538ff1ee3bd4
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-ka/ka-dash-widevine.isml/manifest.mpd
 

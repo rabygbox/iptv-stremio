@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="" billed-till="" billed-msg=" 💬 / 👤 Admin" max-conn="1"
 
-#EXTINF:-1 tvg-id="rete4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png" group-title="Top Italia",Rete4 HD
+#EXTINF:-1 tvg-id="rete4" group-title="Top Italia",Rete4 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

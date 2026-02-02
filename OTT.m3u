@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/782dyqqmjwa1jwx2y4zp" billed-till="" billed-msg=" 💬 / 👤 Admin" max-conn="1"
-#EXT-X-SESSION-DATA:ID="clearkey"
+#EXTM3U url-tvg="" billed-till="" billed-msg=" 💬 / 👤 Admin" max-conn="1"
+
 
 #EXTINF:-1 tvg-id="rete4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png" group-title="Top Italia",Rete4 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

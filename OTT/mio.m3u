@@ -154,7 +154,7 @@ https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
 #EXTINF:-1 tvg-id="RSILa2" tvg-name="RSI La 2" tvg-group="Top Italia", RSI La 2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 
-#EXTINF:-1 tvg-id="RaiGulp" tvg-name="Rai Gulp"  tvg-group="Top Italia", Rai Gulp
+#EXTINF:-1 tvg-id="RaiGulp" tvg-name="Rai Gulp" tvg-group="Top Italia", Rai Gulp
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
 
 #EXTINF:-1 tvg-id="K2" tvg-name="k2" tvg-group="Top Italia", k2

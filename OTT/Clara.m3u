@@ -9,7 +9,7 @@ https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
 
 #EXTINF:-1 tvg-id="rete4" tvg-name="Rete 4" group-title="Top Italia", Rete 4
-https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 
 #EXTINF:-1 tvg-id="rete4" tvg-name="Rete 4" group-title="Top Italia", Rete 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

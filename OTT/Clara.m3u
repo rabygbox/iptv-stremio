@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="" billed-till="" billed-msg=" 💬 / 👤 Clara" max-conn=""
 #EXTINF:-1 tvg-id="rai1" tvg-name="Rai 1" group-title="Top Italia",Rai 1
-https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
 #EXTINF:-1 tvg-id="rai2" tvg-name="Rai 2" group-title="Top Italia",Rai 2
-https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 
 #EXTINF:-1 tvg-id="rai3" tvg-name="Rai 3" group-title="Top Italia",Rai 3
-https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
 
 #EXTINF:-1 tvg-id="rete4" tvg-name="Rete 4" group-title="Top Italia", Rete 4
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8

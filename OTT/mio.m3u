@@ -96,7 +96,7 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-ka/ka-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b802711018c620005a:9806297f79f52806bf5e05a97d2cd14b
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-kq/kq-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="dmax" tvg-name="DMAX" group-title="Top Italia", DMAX
+#EXTINF:-1 tvg-id="dmax.it" tvg-name="DMAX" group-title="Top Italia", DMAX
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 
 #EXTINF:-1 tvg-id="focus" tvg-name="Focus" group-title="Top Italia", Focus

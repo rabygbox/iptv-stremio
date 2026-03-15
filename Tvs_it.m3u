@@ -1,8 +1,9 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/dqr6yw3kvpaw398ryx1w"
 
-#EXTINF:-1 tvg-id="Mare Fuori.S06E07" tvg-logo="https://www.raicom.rai.it/wp-content/uploads/2023/02/MAREFUORI-724x1024.jpg" group-title="Mare Fuori", Puntata 7
-http://dein-link.com/serie/s01e01.mp4
-#EXTINF:-1 tvg-id="Mare Fuori.S06E09" tvg-logo="https://www.raicom.rai.it/wp-content/uploads/2023/02/MAREFUORI-724x1024.jpg" group-title="Mare Fuori", Puntata 9
+#EXTINF:-1 tvg-id="Mare Fuori.S06E09" tvg-logo="https://www.raicom.rai.it/wp-content/uploads/2023/02/MAREFUORI-724x1024.jpg" group-title="Mare Fuori", 
+Puntata7
+https://hfs321.serversicuro.cc/hls2/01/00545/bssj4aafxyzs_n/master.m3u8?t=c17f9ROu1nTJ5KiQMt7BFJQ4RQ7kTR-7qYbEtgL_F8Q&s=1773572006&e=14400&v=424210&i=0.0&sp=3000&fr=bssj4aafxyzs
+Puntata 9
 https://hfs321.serversicuro.cc/hls2/01/00545/bssj4aafxyzs_n/master.m3u8?t=c17f9ROu1nTJ5KiQMt7BFJQ4RQ7kTR-7qYbEtgL_F8Q&s=1773572006&e=14400&v=424210&i=0.0&sp=3000&fr=bssj4aafxyzs
 
 

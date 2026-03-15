@@ -1,6 +1,5 @@
 #EXTM3U
 
-#EXTM3U url-tvg="http://m3u4u.com/epg/dqr6yw3kvpaw398ryx1w"
 #EXTINF:-1 tvg-id="RTL(src09).de" tvg-name="RTL" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/rtl.png" group-title="Deutschland",RTL
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
 #EXTINF:-1 tvg-id="RTLZWEI(src05).de" tvg-name="RTLZWEI" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/rtl2.png" group-title="Deutschland",RTLZWEI

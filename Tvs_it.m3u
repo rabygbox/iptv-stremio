@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/dqr6yw3kvpaw398ryx1w"
+#EXTM3U
+
 #EXTINF:-1 tvg-id="Rai1(src01).it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai1.png" group-title="Top Italia",Rai 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
 #EXTINF:-1 tvg-id="Rai2(src01).it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai2.png" group-title="Top Italia",Rai 2

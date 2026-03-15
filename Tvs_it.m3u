@@ -1,4 +1,11 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/dqr6yw3kvpaw398ryx1w"
+
+#EXTINF:-1 tvg-id="Mare Fuori.S06E07" group-title="Mare Fuori", Puntata 7
+http://dein-link.com/serie/s01e01.mp4
+#EXTINF:-1 tvg-id="Mare Fuori.S06E09" group-title="Mare Fuori", Puntata 9
+https://hfs321.serversicuro.cc/hls2/01/00545/bssj4aafxyzs_n/master.m3u8?t=c17f9ROu1nTJ5KiQMt7BFJQ4RQ7kTR-7qYbEtgL_F8Q&s=1773572006&e=14400&v=424210&i=0.0&sp=3000&fr=bssj4aafxyzs
+
+
 #EXTINF:-1 tvg-id="Rai1(src01).it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai1.png" group-title="Rai",Rai 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
 #EXTINF:-1 tvg-id="Rai2(src01).it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai2.png" group-title="Rai",Rai 2
@@ -25,8 +32,10 @@ https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_h
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
 #EXTINF:-1 tvg-id="La7(src01).it" tvg-name="LA7" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/la7.png" group-title="Altro",LA7
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Floyd: The Wall HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Pink_Floyd_The_Wall.jpg" group-title="Altro",Pink Floyd: The Wall HD
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink Floyd: The Wall HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Pink_Floyd_The_Wall.jpg" group-title="Richiesta",Pink Floyd: The Wall HD
 https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=382d2c10caeafd18
+
 #EXTINF:-1 tvg-id="nove.it" tvg-name="Nove" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/nove.png" group-title="Altro",Nove
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-HLS8/nove.m3u8
 #EXTINF:-1 tvg-id="RSILa1.ch" tvg-name="RSI La 1" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rsila1.png" group-title="Altro",RSI La 1

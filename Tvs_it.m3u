@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Rai1(src01).it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai1.png" group-title="Top Italia",Rai 1
+#EXTINF:-1 tvg-id="Rai1(src01).it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/VantaTV/Logo_ITA/Rai1.png" group-title="Top Italia",Rai 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
-#EXTINF:-1 tvg-id="Rai2(src01).it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai2.png" group-title="Top Italia",Rai 2
+#EXTINF:-1 tvg-id="Rai2(src01).it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/VantaTV/Logo_ITA/Rai2.png" group-title="Top Italia",Rai 2
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
-#EXTINF:-1 tvg-id="Rai3(src01).it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai3.png" group-title="Top Italia",Rai 3
+#EXTINF:-1 tvg-id="Rai3(src01).it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/VantaTV/Logo_ITA/Rai3.png" group-title="Top Italia",Rai 3
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
-#EXTINF:-1 tvg-id="Rete4(src05).it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rete4.png" group-title="Top Italia",Rete 4
+#EXTINF:-1 tvg-id="Rete4(src05).it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/VantaTV/Logo_ITA/Rete4.png" group-title="Top Italia",Rete 4
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
 #EXTINF:-1 tvg-id="Canale5(src09).it" tvg-name="Canale 5" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/VantaTV/Logo_ITA/Canale5.png" group-title="Top Italia",Canale 5
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
-#EXTINF:-1 tvg-id="Italia1(src09).it" tvg-name="Italia 1" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/italia1.png" group-title="Top Italia",Italia 1
+#EXTINF:-1 tvg-id="Italia1(src09).it" tvg-name="Italia 1" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/VantaTV/Logo_ITA/Italia1.png" group-title="Top Italia",Italia 1
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
 #EXTINF:-1 tvg-id="La7(src01).it" tvg-name="LA7" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/la7.png" group-title="Top Italia",LA7
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8

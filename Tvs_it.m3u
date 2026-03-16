@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Rai1(src01).it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/VantaTV/Logo_ITA/Rai1.png" group-title="Top Italia",Rai 1
+#EXTINF:-1 tvg-id="Rai1 HD.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/VantaTV/Logo_ITA/Rai1.png" group-title="Top Italia",Rai 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
-#EXTINF:-1 tvg-id="Rai2(src01).it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/VantaTV/Logo_ITA/Rai2.png" group-title="Top Italia",Rai 2
+#EXTINF:-1 tvg-id="Rai2 HD.it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/VantaTV/Logo_ITA/Rai2.png" group-title="Top Italia",Rai 2
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
 #EXTINF:-1 tvg-id="Rai3(src01).it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/VantaTV/Logo_ITA/Rai3.png" group-title="Top Italia",Rai 3
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8

@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U https://www.free-epg.de/api/epg?country=IT
 
 #EXTINF:-1 tvg-id="Rai 1 HD.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/VantaTV/Logo_ITA/Rai1.png" group-title="Top Italia",Rai 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8

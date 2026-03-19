@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="https://github.com/harrygg/EPG/raw/refs/heads/master/all-2days.full.epg.xml.gz"
+#EXTM3U url-tvg="https://github.com/harrygg/EPG/raw/refs/heads/master/all-2days.full.epg.xml.gz"
 #EXTINF:-1 tvg-id="RTL(src09).de" tvg-name="RTL" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/rtl.png" group-title="Deutschland",RTL
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
 #EXTINF:-1 tvg-id="RTLZWEI(src05).de" tvg-name="RTLZWEI" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/rtl2.png" group-title="Deutschland",RTLZWEI

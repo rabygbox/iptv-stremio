@@ -31,19 +31,19 @@ https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mp
 https://viamotionhsi.netplus.ch/live/eds/kabel1doku/browser-dash/kabel1doku.mpd
 #EXTINF:-1 tvg-id="PULSacht(src05).de" tvg-name="puls acht" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/plusacht.png" group-title="Deutschland",puls acht
 https://viamotionhsi.netplus.ch/live/eds/puls8/browser-dash/puls8.mpd
-#EXTINF:-1 tvg-id="ComedyCentral(src09).de" tvg-name="comedy central" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/comedycentral.png" group-title="Deutschland",comedy central
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="comedy central" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/comedycentral.png" group-title="Deutschland",comedy central
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
-#EXTINF:-1 tvg-id="Nickelodeon(src09).de" tvg-name="comedy central+1" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/comedycentral1.png" group-title="Deutschland",comedy central+1
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="comedy central+1" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/comedycentral1.png" group-title="Deutschland",comedy central+1
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-dash/comedycentralnick.mpd
 #EXTINF:-1 tvg-id="7maxx.de" tvg-name="7MAXX" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/pro7maxx.png" group-title="Deutschland",7MAXX
 https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-dash/prosiebenmaxx.mpd
-#EXTINF:-1 tvg-id="Tele5(src05).de" tvg-name="tele5" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/tele5.png" group-title="Deutschland",tele5
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="tele5" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/tele5.png" group-title="Deutschland",tele5
 https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
-#EXTINF:-1 tvg-id="ARDalpha(src05).de" tvg-name="ARD alpha" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/ardalpha.png" group-title="Deutschland",ARD alpha
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD alpha" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/ardalpha.png" group-title="Deutschland",ARD alpha
 https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-dash/bralpha.mpd
-#EXTINF:-1 tvg-id="DELUXEMUSIC(src05).de" tvg-name="DELUXE MUSIC" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/deluxemusic.png" group-title="Deutschland",DELUXE MUSIC
+#EXTINF:-1 tvg-id="DELUXEMUSIC.de" tvg-name="DELUXE MUSIC" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/deluxemusic.png" group-title="Deutschland",DELUXE MUSIC
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
-#EXTINF:-1 tvg-id="VOX(src09).de" tvg-name="VOX" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/vox.png" group-title="Deutschland",VOX
+#EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/vox.png" group-title="Deutschland",VOX
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
-#EXTINF:-1 tvg-id="DisneyChannel(src05).de" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/disneychannel.png" group-title="Deutschland",Disney Channel
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/disneychannel.png" group-title="Deutschland",Disney Channel
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8

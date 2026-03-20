@@ -8,11 +8,11 @@ https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Kabel1(src09).de" tvg-name="Kabel 1" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/kabel1.png" group-title="Deutschland",Kabel 1
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="3sat(src01).de" tvg-name="3sat" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/3sat.png" group-title="Deutschland",3sat
-https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
 #EXTINF:-1 tvg-id="KIKA(src01).de" tvg-name="KIKA" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/kika.png" group-title="Deutschland",KIKA
-https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-dash/kikahd.mpd
+https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
 #EXTINF:-1 tvg-id="SPORT1(src09).de" tvg-name="Sport 1" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/sport1.png" group-title="Deutschland",Sport 1
-https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
+https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
 #EXTINF:-1 tvg-id="rtlsuper.de" tvg-name="RTL SUPER" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/superrtl.png" group-title="Deutschland",RTL SUPER
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 #EXTINF:-1 tvg-id="RTLNitro(src01).de" tvg-name="RTL nitro" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_de/rtlnitro.png" group-title="Deutschland",RTL nitro

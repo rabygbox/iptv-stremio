@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://github.com/harrygg/EPG/raw/refs/heads/master/all-2days.full.epg.xml"
-#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai1.png" group-title="Rai",Rai 1
+#EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai1.png" group-title="Rai",Rai 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
 
-#EXTINF:-1 tvg-id="Rai2(src01).it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai2.png" group-title="Rai",Rai 2
+#EXTINF:-1 tvg-id="rai2.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai2.png" group-title="Rai",Rai 2
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
 
-#EXTINF:-1 tvg-id="Rai3(src01).it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai3.png" group-title="Rai",Rai 3
+#EXTINF:-1 tvg-id="rai3.it" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai3.png" group-title="Rai",Rai 3
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
 
 #EXTINF:-1 tvg-id="Rete4" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rete4.png" group-title="Mediaset",Rete 4

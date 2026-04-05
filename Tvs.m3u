@@ -1,9 +1,4 @@
 #EXTM3U
-
-# • Pink Floyd: The Wall 1998
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Pink_Floyd_The_Wall.jpg",Pink Floyd: The Wall HD
-https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=382d2c10caeafd18
-
 # • Live TV Channel
 #EXTINF:-1 tvg-id="Rai1(src01)" tvg-logo="https://raw.githubusercontent.com/rabygbox/iptv-stremio/refs/heads/main/Logo_ita/rai1.png" group-title="Rai",Rai 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8

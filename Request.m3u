@@ -8,18 +8,4 @@ https://net11.cc/newtv/hls/nf/70019510.m3u8
 
 #The Last Supper
 #EXTINF:-1 tvg-id="tt32461003" tvg-name="The Last Supper" group-title="Movie", The Last Supper
-https://203.188.166.121/v4/BFgiBv2wXNDkX-wGO56NWQ/1781561380/pq/aizgvk/master.m3u8?v=1780826461
-
-
-details
-{
-  "ok": true,
-  "type": "movie",
-  "path": "link/movie/tt0373926",
-  "link": {
-    "url": "https://net11.cc/newtv/hls/nf/70019510.m3u8",
-    "createdAt": "2026-06-16T07:04:10.486Z",
-    "updatedAt": "2026-06-16T08:22:34.991Z"
-  },
-  "wasCreated": false
-}
+https://185.237.107.230/v4/1J46HDXG26wZ1KXJZQ-vyA/1781609805/pq/aizgvk/master.m3u8?v=1780826461

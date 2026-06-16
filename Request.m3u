@@ -6,18 +6,6 @@ https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=382d2c10caeafd18
 #EXTINF:-1 tvg-id="tt0373926" tvg-name="The Interpreter" group-title="Movie", The Interpreter
 https://net11.cc/newtv/hls/nf/70019510.m3u8
 
-{
-  "ok": true,
-  "type": "movie",
-  "path": "link/movie/tt0373926",
-  "link": {
-    "url": "https://net11.cc/newtv/hls/nf/70019510.m3u8",
-    "createdAt": "2026-06-16T07:04:10.486Z",
-    "updatedAt": "2026-06-16T07:17:13.182Z"
-  },
-  "wasCreated": false
-}
-
 #The Last Supper
 #EXTINF:-1 tvg-id="tt32461003" tvg-name="The Last Supper" group-title="Movie", The Last Supper
 https://203.188.166.121/v4/BFgiBv2wXNDkX-wGO56NWQ/1781561380/pq/aizgvk/master.m3u8?v=1780826461

@@ -1,15 +1,13 @@
 #EXTM3U url-tvg="" billed-till="" billed-msg=" 💬 / 👤 Claudio" max-conn=""
-#EXTINF:-1 tvg-id="rai1" tvg-name="Rai 1" group-title="Top Italia",Rai 1
-https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
-#EXTINF:-1 tvg-id="rai2" tvg-name="Rai 2" group-title="Top Italia",Rai 2
-https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+#EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1" group-title="Top Italia", Rai 1
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rai3" tvg-name="Rai 3" group-title="Top Italia",Rai 3
-https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
+#EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2" group-title="Top Italia", Rai 2
+http://team-tv.co:81/rai2/index.m3u8
 
-#EXTINF:-1 tvg-id="rete4" tvg-name="Rete 4" group-title="Top Italia", Rete 4
-https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3" group-title="Top Italia", Rai 3
+https://tgrbolzano-live.akamaized.net/hls/live/2025560/tgrbolzano/tgrbolzano/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rete4" tvg-name="Rete 4" group-title="Top Italia", Rete 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -21,18 +19,12 @@ https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-r4/r4-dash-widevine.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="canale5" tvg-name="Canale 5" group-title="Top Italia", Canale 5
-https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
-
-#EXTINF:-1 tvg-id="canale5" tvg-name="Canale 5" group-title="Top Italia", Canale 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="italia1" tvg-name="Italia 1" group-title="Top Italia", Italia
-https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 
 #EXTINF:-1 tvg-id="italia1" tvg-name="Italia 1" group-title="Top Italia", Italia 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -42,11 +34,9 @@ https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="la7" tvg-name="La7" group-title="Top Italia", La7
-https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
+#EXTINF:-1 tvg-id="tv8.it" tvg-name="TV8" group-title="Top Italia", TV8
+http://102.129.186.182:81/tv8/index.m3u8
 
-#EXTINF:-1 tvg-id="nove" tvg-name="Nove" group-title="Top Italia", Nove
-https://viamotionhsi.netplus.ch/live/eds/nove/browser-HLS8/nove.m3u8
 
 #EXTINF:-1 tvg-id="20" tvg-name="20 Mediaset" group-title="Top Italia", 20 Mediaset
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -96,9 +86,6 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-ka/ka-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b802711018c620005a:9806297f79f52806bf5e05a97d2cd14b
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-kq/kq-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="dmax.it" tvg-name="DMAX" group-title="Top Italia", DMAX
-https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
-
 #EXTINF:-1 tvg-id="focus" tvg-name="Focus" group-title="Top Italia", Focus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -139,6 +126,12 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-kb/kb-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8021ca89847d420bc:4d8fd3d8cd51b438086fbdbb892c4354
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-la/la-dash-widevine.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network" group-title="Top Italia", Cartoon Network
+http://185.227.34.104/stream/122/index.m3u8
+
+#EXTINF:-1 tvg-id="super.it" tvg-name="Super!" group-title="Top Italia", Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="italia2" tvg-name="Italia 2" group-title="Top Italia", Italia 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -147,36 +140,3 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-la/la-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee0e706073554094:1460974312c223bcffe747691c64c14c
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-i2/i2-dash-widevine.isml/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="RSILa1" tvg-name="RSI La 1" group-title="Top Italia", RSI La 1
-https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
-
-#EXTINF:-1 tvg-id="RSILa2" tvg-name="RSI La 2" group-title="Top Italia", RSI La 2
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
-
-#EXTINF:-1 tvg-id="RaiGulp" tvg-name="Rai Gulp" group-title="Top Italia", Rai Gulp
-https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
-
-#EXTINF:-1 tvg-id="K2" tvg-name="k2" group-title="Top Italia", k2
-https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
-
-#EXTINF:-1 tvg-id="Frisbee" tvg-name="Frisbee" group-title="Top Italia", Frisbee
-https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-
-#EXTINF:-1 tvg-id="Super!" tvg-name="Super!" group-title="Top Italia", Super!
-https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MotorTrend" tvg-name="Motor Trend" group-title="Top Italia", Motor Trend
-https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
-
-#EXTINF:-1 tvg-id="Giallo" tvg-name="Giallo" group-title="Top Italia", Giallo
-https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
-
-#EXTINF:-1 tvg-id="RealTime" tvg-name="Real Time" group-title="Top Italia", Real Time
-https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
-
-#EXTINF:-1 tvg-id="RTL102" tvg-name="RTL 102.5" group-title="Top Italia", RTL 102.5
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="Top Italia", HGTV
-https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
